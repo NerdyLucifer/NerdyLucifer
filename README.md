@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwat Kumar Singh (Nerdy Lucifer)</h1>
 <h3 align="center">A passionate full-developer from India. Currently pursuing my B.Tech from Indian Institute of Technology (BHU), Varanasi</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdylucifer&label=Profile%20views&color=0e75b6&style=flat" alt="nerdylucifer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerdylucifer" alt="nerdylucifer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ashwat_singh" target="blank"><img src="https://img.shields.io/twitter/follow/ashwat_singh?logo=twitter&style=for-the-badge" alt="ashwat_singh" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
